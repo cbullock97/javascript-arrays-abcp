@@ -5,9 +5,20 @@ var ingredient 4 = "butter"
 var ingredient 5 =  "tomato"
 var ingredient 6 = "garlic"
 
-var chocolateBars = [snickers, hundred grand, kitkat, skittles];
+var chocolateBars = 
+[
+  'snickers',
+  'hundred grand',
+  'kitkat',
+  'skittles'
+  ]
 
-var superheroines = [catwoman, she-hulk, mystique];
+var superheroines = 
+[
+  'catwoman',
+  'she-hulk',
+  'mystique'
+  ]
 
-superheroines.push (wonder woman);
+superheroines.push ('wonder woman');
 
