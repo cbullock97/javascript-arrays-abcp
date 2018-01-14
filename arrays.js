@@ -6,6 +6,11 @@ var chocolateBars =
   'skittles'
   ];
 
-function addElementToBeginningofArray = [chocolateBars, 'babyruth']
+function addElementToBeginningofArray = [chocolateBars, 'babyruth'
+
+{
+  chocolateBars.push ('babyruth')
+  }
+
 
 var destructivelyAddElementToBeginningofArray;
